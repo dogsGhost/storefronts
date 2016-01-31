@@ -3,6 +3,6 @@ import App from './App';
 
 chai.should();
 
-describe('Fuel Savings Calculator Component', () => {
+describe('it', () => {
 
 });

@@ -1,0 +1,533 @@
+[
+{
+"_id": "56a45129688286dc6a97c236",
+"address": 10340,
+"category": {
+"_id": "56a44f5feee395bf6a83813b",
+"name": "Dollar Store"
+},
+"isOccupied": true,
+"notes": "",
+"occupantName": "Dollar Center",
+"street": {
+"_id": "56a04a2a76618a7a3d11f516",
+"name": "Joseph Campau",
+"city": "Hamtrack",
+"state": "MI"
+}
+},
+{
+"_id": "56a46e33666efaca70deb1fb",
+"address": 10334,
+"category": {
+"_id": "56a4672a3b910f296f5b6a48",
+"name": "Martial Arts Instruction"
+},
+"isOccupied": true,
+"notes": "",
+"occupantName": "Tri-State TaeKwon-Do Federation",
+"street": {
+"_id": "56a04a2a76618a7a3d11f516",
+"name": "Joseph Campau",
+"city": "Hamtrack",
+"state": "MI"
+}
+},
+{
+"_id": "56a46fc066b5dfdc70b3825d",
+"address": 10326,
+"category": {
+"_id": "56a2fa8e5649b5d6530a709c",
+"name": "Art Space"
+},
+"isOccupied": true,
+"notes": "",
+"occupantName": "Atomic Cafe",
+"street": {
+"_id": "56a04a2a76618a7a3d11f516",
+"name": "Joseph Campau",
+"city": "Hamtrack",
+"state": "MI"
+}
+},
+{
+"_id": "56a470703e5791de70497821",
+"address": 10316,
+"isOccupied": false,
+"notes": "formerly a Rent-A-Center",
+"street": {
+"_id": "56a04a2a76618a7a3d11f516",
+"name": "Joseph Campau",
+"city": "Hamtrack",
+"state": "MI"
+}
+},
+{
+"_id": "56a471c90800128471c13205",
+"address": 10308,
+"category": {
+"_id": "56a471aa0800128471c13203",
+"name": "Hair/Nails Salon"
+},
+"isOccupied": true,
+"notes": "",
+"occupantName": "Envy Me Salon",
+"street": {
+"_id": "56a04a2a76618a7a3d11f516",
+"name": "Joseph Campau",
+"city": "Hamtrack",
+"state": "MI"
+}
+},
+{
+"_id": "56a4794ee07827a871e0c27e",
+"address": 10304,
+"isOccupied": false,
+"street": {
+"_id": "56a04a2a76618a7a3d11f516",
+"name": "Joseph Campau",
+"city": "Hamtrack",
+"state": "MI"
+}
+},
+{
+"_id": "56a50b87aee60c977479ee6d",
+"address": 10300,
+"isOccupied": true,
+"street": {
+"_id": "56a04a2a76618a7a3d11f516",
+"name": "Joseph Campau",
+"city": "Hamtrack",
+"state": "MI"
+},
+"category": {
+"_id": "56a4fdf765b5b7067477ac44",
+"name": "Drug Store"
+},
+"occupantName": "Hamtramck Drugs"
+},
+{
+"_id": "56a50bf567cbc13a75cf7abe",
+"address": 10242,
+"isOccupied": true,
+"street": {
+"_id": "56a04a2a76618a7a3d11f516",
+"name": "Joseph Campau",
+"city": "Hamtrack",
+"state": "MI"
+},
+"category": {
+"_id": "56a506ec65b5b7067477ac45",
+"name": "Law Office"
+}
+},
+{
+"_id": "56a50e722ec76a98757a186e",
+"address": 10234,
+"isOccupied": true,
+"street": {
+"_id": "56a04a2a76618a7a3d11f516",
+"name": "Joseph Campau",
+"city": "Hamtrack",
+"state": "MI"
+},
+"occupantName": "Pro Discount"
+},
+{
+"_id": "56a50ea32ec76a98757a1870",
+"address": 10238,
+"isOccupied": true,
+"street": {
+"_id": "56a04a2a76618a7a3d11f516",
+"name": "Joseph Campau",
+"city": "Hamtrack",
+"state": "MI"
+},
+"category": {
+"_id": "56a50e842ec76a98757a186f",
+"name": "Clothing Store"
+},
+"occupantName": "Detroit Threads"
+},
+{
+"_id": "56a50f002ec76a98757a1871",
+"address": 10218,
+"isOccupied": false,
+"street": {
+"_id": "56a04a2a76618a7a3d11f516",
+"name": "Joseph Campau",
+"city": "Hamtrack",
+"state": "MI"
+},
+"notes": "formerly Family Medical Clinic"
+},
+{
+"_id": "56a50f352ec76a98757a1872",
+"address": 10201,
+"isOccupied": false,
+"street": {
+"_id": "56a04a2a76618a7a3d11f516",
+"name": "Joseph Campau",
+"city": "Hamtrack",
+"state": "MI"
+}
+},
+{
+"_id": "56a50f522ec76a98757a1873",
+"address": 10200,
+"isOccupied": true,
+"street": {
+"_id": "56a04a2a76618a7a3d11f516",
+"name": "Joseph Campau",
+"city": "Hamtrack",
+"state": "MI"
+},
+"category": {
+"_id": "56a2f228574c6de052c34e64",
+"name": "Grocery Store"
+},
+"occupantName": "Polish Market"
+},
+{
+"_id": "56a50f7e2ec76a98757a1874",
+"address": 10212,
+"isOccupied": true,
+"street": {
+"_id": "56a04a2a76618a7a3d11f516",
+"name": "Joseph Campau",
+"city": "Hamtrack",
+"state": "MI"
+},
+"category": {
+"_id": "56a2f228574c6de052c34e64",
+"name": "Grocery Store"
+},
+"occupantName": "Sonali Grocery"
+},
+{
+"_id": "56a5541a3e8693ee8425b992",
+"address": 10345,
+"isOccupied": true,
+"street": {
+"_id": "56a04a2a76618a7a3d11f516",
+"name": "Joseph Campau",
+"city": "Hamtrack",
+"state": "MI"
+},
+"notes": "under construction, will be a community space",
+"occupantName": "Bank Suey"
+},
+{
+"_id": "56a5546f3e8693ee8425b993",
+"address": 10337,
+"isOccupied": true,
+"street": {
+"_id": "56a04a2a76618a7a3d11f516",
+"name": "Joseph Campau",
+"city": "Hamtrack",
+"state": "MI"
+},
+"category": {
+"_id": "56a064ed5982f06840e800f4",
+"name": "Restaurant/Bar"
+},
+"occupantName": "Campau Tower"
+},
+{
+"_id": "56a5548a3e8693ee8425b994",
+"address": 10335,
+"isOccupied": true,
+"street": {
+"_id": "56a04a2a76618a7a3d11f516",
+"name": "Joseph Campau",
+"city": "Hamtrack",
+"state": "MI"
+},
+"category": {
+"_id": "56a2ef587a3a7725522ed72d",
+"name": "Bakery"
+},
+"occupantName": "New Martha Washington Bakery"
+},
+{
+"_id": "56a555133e8693ee8425b995",
+"address": 10301,
+"isOccupied": true,
+"street": {
+"_id": "56a04a2a76618a7a3d11f516",
+"name": "Joseph Campau",
+"city": "Hamtrack",
+"state": "MI"
+},
+"category": {
+"_id": "56a064ed5982f06840e800f4",
+"name": "Restaurant/Bar"
+},
+"occupantName": "U.S. Fish & Chicken"
+},
+{
+"_id": "56a5552f3e8693ee8425b996",
+"address": 10239,
+"isOccupied": false,
+"street": {
+"_id": "56a04a2a76618a7a3d11f516",
+"name": "Joseph Campau",
+"city": "Hamtrack",
+"state": "MI"
+},
+"notes": "formerly Trowbridge House of Coffee"
+},
+{
+"_id": "56a555653e8693ee8425b997",
+"address": 10233,
+"isOccupied": true,
+"street": {
+"_id": "56a04a2a76618a7a3d11f516",
+"name": "Joseph Campau",
+"city": "Hamtrack",
+"state": "MI"
+},
+"category": {
+"_id": "56a471aa0800128471c13203",
+"name": "Hair/Nails Salon"
+},
+"notes": "under construction, new location",
+"occupantName": "Envy Me Salon"
+},
+{
+"_id": "56a5559f3e8693ee8425b998",
+"address": 10229,
+"isOccupied": true,
+"street": {
+"_id": "56a04a2a76618a7a3d11f516",
+"name": "Joseph Campau",
+"city": "Hamtrack",
+"state": "MI"
+},
+"category": {
+"_id": "56a50e842ec76a98757a186f",
+"name": "Clothing Store"
+},
+"occupantName": "Dunwell Printing & Dry Goods"
+},
+{
+"_id": "56a555d13e8693ee8425b999",
+"address": 10211,
+"isOccupied": true,
+"street": {
+"_id": "56a04a2a76618a7a3d11f516",
+"name": "Joseph Campau",
+"city": "Hamtrack",
+"state": "MI"
+},
+"category": {
+"_id": "56a506ec65b5b7067477ac45",
+"name": "Law Office"
+},
+"occupantName": "Frontczak Law Office"
+},
+{
+"_id": "56a556003e8693ee8425b99a",
+"address": 10209,
+"isOccupied": true,
+"street": {
+"_id": "56a04a2a76618a7a3d11f516",
+"name": "Joseph Campau",
+"city": "Hamtrack",
+"state": "MI"
+},
+"category": {
+"_id": "56a506ec65b5b7067477ac45",
+"name": "Law Office"
+},
+"occupantName": "Gerald Kaminski, Attorney at Law"
+},
+{
+"_id": "56a556103e8693ee8425b99b",
+"address": 10035,
+"isOccupied": true,
+"street": {
+"_id": "56a04a2a76618a7a3d11f516",
+"name": "Joseph Campau",
+"city": "Hamtrack",
+"state": "MI"
+},
+"category": {
+"_id": "56a308c08923224e546238a4",
+"name": "Pizza Place"
+},
+"occupantName": "Jet's Pizza"
+},
+{
+"_id": "56a556393e8693ee8425b99d",
+"address": 10033,
+"isOccupied": true,
+"street": {
+"_id": "56a04a2a76618a7a3d11f516",
+"name": "Joseph Campau",
+"city": "Hamtrack",
+"state": "MI"
+},
+"category": {
+"_id": "56a556233e8693ee8425b99c",
+"name": "Tax Services"
+},
+"occupantName": "American Tax Service"
+},
+{
+"_id": "56a5566b3e8693ee8425b99e",
+"address": 10017,
+"isOccupied": true,
+"street": {
+"_id": "56a04a2a76618a7a3d11f516",
+"name": "Joseph Campau",
+"city": "Hamtrack",
+"state": "MI"
+},
+"category": {
+"_id": "56a556233e8693ee8425b99c",
+"name": "Tax Services"
+},
+"occupantName": "H&R Block"
+},
+{
+"_id": "56a556daf3b9069f85bec08b",
+"address": 10023,
+"isOccupied": true,
+"street": {
+"_id": "56a04a2a76618a7a3d11f516",
+"name": "Joseph Campau",
+"city": "Hamtrack",
+"state": "MI"
+},
+"category": {
+"_id": "56a556863e8693ee8425b99f",
+"name": "Yoga Studio"
+},
+"occupantName": "Iyengar Yoga Detroit"
+},
+{
+"_id": "56a556fcf3b9069f85bec08c",
+"address": 10001,
+"isOccupied": true,
+"street": {
+"_id": "56a04a2a76618a7a3d11f516",
+"name": "Joseph Campau",
+"city": "Hamtrack",
+"state": "MI"
+},
+"category": {
+"_id": "56a064ed5982f06840e800f4",
+"name": "Restaurant/Bar"
+},
+"occupantName": "Temptation Lounge"
+},
+{
+"_id": "56a55719f3b9069f85bec08e",
+"address": 10000,
+"isOccupied": true,
+"street": {
+"_id": "56a04a2a76618a7a3d11f516",
+"name": "Joseph Campau",
+"city": "Hamtrack",
+"state": "MI"
+},
+"category": {
+"_id": "56a55715f3b9069f85bec08d",
+"name": "Pawn Shop"
+}
+},
+{
+"_id": "56a55732f3b9069f85bec08f",
+"address": 10042,
+"isOccupied": false,
+"street": {
+"_id": "56a04a2a76618a7a3d11f516",
+"name": "Joseph Campau",
+"city": "Hamtrack",
+"state": "MI"
+}
+},
+{
+"_id": "56a5577cf3b9069f85bec090",
+"address": 10038,
+"isOccupied": false,
+"street": {
+"_id": "56a04a2a76618a7a3d11f516",
+"name": "Joseph Campau",
+"city": "Hamtrack",
+"state": "MI"
+}
+},
+{
+"_id": "56a557a1f3b9069f85bec091",
+"address": 10020,
+"isOccupied": true,
+"street": {
+"_id": "56a04a2a76618a7a3d11f516",
+"name": "Joseph Campau",
+"city": "Hamtrack",
+"state": "MI"
+},
+"category": {
+"_id": "56a471aa0800128471c13203",
+"name": "Hair/Nails Salon"
+},
+"occupantName": "Pro Nails"
+},
+{
+"_id": "56a557f9f3b9069f85bec092",
+"address": 10012,
+"isOccupied": true,
+"street": {
+"_id": "56a04a2a76618a7a3d11f516",
+"name": "Joseph Campau",
+"city": "Hamtrack",
+"state": "MI"
+},
+"category": {
+"_id": "56a50e842ec76a98757a186f",
+"name": "Clothing Store"
+},
+"occupantName": "G Mart Co."
+},
+{
+"_id": "56a55805f3b9069f85bec093",
+"address": 10005,
+"isOccupied": false,
+"street": {
+"_id": "56a04a2a76618a7a3d11f516",
+"name": "Joseph Campau",
+"city": "Hamtrack",
+"state": "MI"
+}
+},
+{
+"_id": "56a55886f3b9069f85bec095",
+"address": 10016,
+"isOccupied": true,
+"street": {
+"_id": "56a04a2a76618a7a3d11f516",
+"name": "Joseph Campau",
+"city": "Hamtrack",
+"state": "MI"
+},
+"occupantName": "Good Price"
+},
+{
+"_id": "56a558a3f3b9069f85bec097",
+"address": 10022,
+"isOccupied": true,
+"street": {
+"_id": "56a04a2a76618a7a3d11f516",
+"name": "Joseph Campau",
+"city": "Hamtrack",
+"state": "MI"
+},
+"category": {
+"_id": "56a5589ff3b9069f85bec096",
+"name": "Record Store"
+},
+"occupantName": "Lo & Behold Records & Books"
+}
+]

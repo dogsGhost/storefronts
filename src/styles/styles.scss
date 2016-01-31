@@ -1,1 +1,81 @@
+$blue: #EDFCFF;
+
 @import '../../node_modules/normalize.css/normalize.css';
+
+h1, h2, h3, h4 {
+  margin: 0 0 0.5rem;
+}
+
+p {
+  margin: 0 0 0.5em;
+}
+
+.page-wrap {
+  position: relative;
+  // margin: 0 auto;
+  // width: 96%;
+  // max-width: 44em;
+}
+
+.inner {
+  margin: 0 auto;
+  width: 96%;
+  max-width: 44em;
+}
+
+.page-header {
+  padding: 1em;
+  color: #fff;
+  background: #333;
+
+  h1, h2 {
+    font-weight: 400;
+  }
+}
+
+.map-container {
+  margin: 0 auto;
+  padding: 1em 0;
+  width: 14em;
+  display: flex;
+  justify-content: space-between;;
+}
+
+.map-list {
+}
+
+.store {
+  position: relative;
+  margin: 0 0 0.5em;
+  padding: 1em;
+  text-align: center;
+  border: 1px solid #e7e7e7;
+}
+
+.isOccupied {
+  background: #eee;
+}
+
+.store-details {
+  position: absolute;
+  top: -1px;
+  display: none;
+  padding: 1em;
+  width: 15em;
+  text-align: left;
+  background: $blue;
+  border: 1px solid darken($blue, 10%);
+  z-index: 10;
+
+  .active & {
+    display: block;
+  }
+
+  .evens & {
+    left: 100%;
+  }
+
+  .odds & {
+    right: 100%;
+  }
+}

@@ -25,6 +25,7 @@
   "author": "David",
   "license": "MIT",
   "dependencies": {
+    "d3": "3.5.13",
     "normalize.css": "3.0.3",
     "react": "0.14.6",
     "react-dom": "0.14.6",
